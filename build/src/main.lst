@@ -1,0 +1,17 @@
+GAS LISTING /tmp/cc7nXT2Z.s 			page 1
+
+
+   1              		.file	"main.c"
+   2              		.option nopic
+   3              		.option norelax
+   4              		.text
+   5              	.Ltext0:
+   6              		.cfi_sections	.debug_frame
+   7              	.Letext0:
+GAS LISTING /tmp/cc7nXT2Z.s 			page 2
+
+
+DEFINED SYMBOLS
+                            *ABS*:0000000000000000 main.c
+
+NO UNDEFINED SYMBOLS
